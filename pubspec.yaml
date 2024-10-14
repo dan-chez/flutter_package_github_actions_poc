@@ -1,5 +1,5 @@
 name: flutter_package_github_actions_poc
-description: A starting point for Dart libraries or applications.
+description: Actions for Flutter package
 version: 1.0.0
 repository: https://github.com/dan-chez/flutter_package_github_actions_poc
 
