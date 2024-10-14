@@ -1,0 +1,17 @@
+name: flutter_package_github_actions_poc
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+repository: https://github.com/dan-chez/flutter_package_github_actions_poc
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
