@@ -25,4 +25,4 @@ jobs:
       - name: Check Publish Warnings
         run: dart pub publish --dry-run
       - name: Publish package on pub.dev
-        run: dart pub publish --f
+        run: dart pub publish

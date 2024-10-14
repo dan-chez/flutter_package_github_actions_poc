@@ -46,7 +46,7 @@ class CMPageTitle extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final Color kkAmaranthPrimaryWithOpacity = Color.fromRGBO(161, 151, 38, 0.7294117647058823);
+    final Color kkAmaranthPrimaryWithOpacity = Color.fromRGBO(255, 201, 207, 0.796078431372549);
     final Color kMyrtleGreen = Color(0xFFC51010);
     return Center(
       child: Column(
