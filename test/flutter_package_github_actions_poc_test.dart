@@ -1,5 +1,5 @@
 import 'package:flutter_package_github_actions_poc/flutter_package_github_actions_poc.dart';
-import 'package:test/test.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   group('A group of tests', () {
