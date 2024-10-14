@@ -1,6 +1,6 @@
 name: flutter_package_github_actions_poc
 description: Actions for Flutter package
-version: 1.0.2
+version: 1.0.3
 repository: https://github.com/dan-chez/flutter_package_github_actions_poc
 
 environment:
