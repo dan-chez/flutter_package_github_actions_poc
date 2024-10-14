@@ -1,3 +1,11 @@
+## 1.0.6
+
+- Title widget color updated
+
+## 1.0.5
+
+- Title widget
+
 ## 1.0.4
 
 - Toggle button removed
