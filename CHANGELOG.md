@@ -1,3 +1,7 @@
+## 1.0.7+1
+
+- Title widget color updated with other color
+
 ## 1.0.7
 
 - Title widget color updated
